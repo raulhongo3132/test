@@ -17,3 +17,5 @@ Rebeca Gomez Gonzalez
 Duncan Ricardo Sansón Pérez
 Linus Torvalds creando git porque la herramienta 
 para versionar no le funcionaba xddd: el ma'duro!!!
+Jose Alberto Vazquez Lopez
+Duncan Ricardo Sansón Pérez 
