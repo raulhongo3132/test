@@ -1,7 +1,6 @@
 - Realizar el modulo de registro donde actualice, se elimine y guarden clientes.
 - Realizar el modulo de tickets.
 - Realizar el modulo de pagos.
-<<<<<<< HEAD
 
 
 
@@ -20,6 +19,4 @@ Linus Torvalds creando git porque la herramienta
 para versionar no le funcionaba xddd: el ma'duro!!!
 Jose Alberto Vazquez Lopez
 Duncan Ricardo Sansón Pérez 
-=======
-- Adalberto Dominguez Deanda
->>>>>>> 1de1669 (Me estoy durmiendo)
+ Adalberto Dominguez Deanda
