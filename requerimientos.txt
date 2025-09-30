@@ -1,3 +1,5 @@
 - Realizar el modulo de registro donde actualice, se elimine y guarden clientes.
 - Realizar el modulo de tickets.
 - Realizar el modulo de pagos.
+
+Raúl Miguel Valverde Palacios
