@@ -14,4 +14,6 @@ Karla Rocío Leal Rangel
 Raúl Miguel Valverde Palacios
 neythan zaid diaz camacho
 Rebeca Gomez Gonzalez
-Duncan Ricardo Sansón Pérez 
+Duncan Ricardo Sansón Pérez
+Linus Torvalds creando git porque la herramienta 
+para versionar no le funcionaba xddd: el ma'duro!!!
